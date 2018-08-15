@@ -1,0 +1,1 @@
+这个主要测试MediaPlayer,这个很容易使用,但是细节还是比较多的,不然很容易报 E/MediaPlayer: error (-38, 0)等类似错误
